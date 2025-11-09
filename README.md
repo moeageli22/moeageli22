@@ -1,9 +1,6 @@
 # Mohammed-Ageli
 Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!  
 
-![about_daria](https://github.com/user-attachments/assets/1d0680a2-cd5a-4510-b905-9bedf183aa49)
-
-
 ## My Skills Set
 <table><tr><tr valign="top" width="25%">
 

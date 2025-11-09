@@ -1,5 +1,21 @@
 
 Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!  
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohammed-ageli-153346218/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="moeageli" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="right">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRybmZ1aDE2ZWh2OG02cXdwMjZvNWR0ZXlqdTdkejdkY2J2cGo0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+</div>
+
+###
 ## My Skills Set
 <table><tr><tr valign="top" width="25%">
 

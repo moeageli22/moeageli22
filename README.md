@@ -114,22 +114,6 @@ Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!
 
 
 
-
-
-
-
-
-## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yameenmunir/yameenmunir/output/github-snake.svg" alt="GitHub Snake Animation" width="80%"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yameenmunir&label=VISITOR+COUNT&color=22F72E&style=for-the-badge" alt="Visitor Count"/>
-</p>
-
----
-
 <p align="center">
   <em>
     Thank you for visiting my profile!<br>

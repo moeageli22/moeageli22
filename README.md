@@ -130,7 +130,7 @@ Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!
 
 ###
 
-<img src="https://raw.githubusercontent.com/moeageli22/moeageli22/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/moeageli22/moeageli22/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">

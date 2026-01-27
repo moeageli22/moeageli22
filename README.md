@@ -129,7 +129,14 @@ Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!
 
 ###
 
-<img src="https://raw.githubusercontent.com/moeageli22/moeageli22/main/snake.svg" alt="Snake animation" />
+
+# In your workflow file (.github/workflows/snake.yml)
+
+- uses: Platane/snk@v3
+  with:
+    github_user_name: moeageli22
+    outputs: |
+      dist/snake.svg
 
 ###
 <div align="center">

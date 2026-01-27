@@ -1,4 +1,5 @@
 
+
 Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!  
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd0M3Y2bWZoNzQ2ZmEweGppaHh4dDc3Y21raGY3b2ZsNXRiZDh0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
@@ -129,7 +130,7 @@ Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!
 
 ###
 
-<img src="https://raw.githubusercontent.com/moeageli22/moeageli22/main/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/moeageli22/moeageli22/output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">

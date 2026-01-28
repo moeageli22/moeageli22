@@ -138,7 +138,7 @@
   
 - 👨‍💻 **Portfolio:** https://moeageli.vercel.app/
 - 🌱 **Currently Learning:** Advanced Machine Learning Techniques
-- 📫 **Contact:** yameenmunir05@gmail.com
+- 📫 **Contact:** mohammadmunir2004@gmail.com
 - 💡 **Interests:** AI, Web Development
 - 🎯 **Goal:** Building innovative AI solutions
 

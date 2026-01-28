@@ -1,9 +1,6 @@
 
 
-Hello, I'm Mohammed Ageli  Welcome to my GitHub profile!  
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd0M3Y2bWZoNzQ2ZmEweGppaHh4dDc3Y21raGY3b2ZsNXRiZDh0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
+<h2 align="center">Hello, this is Mohammed Ageli 👋<br><br>I’m a final-year Computer Science student passionate about AI, Data Analytics, and Software Engineering. I enjoy building smart, impactful projects that combine technology with real-world problem solving, and I’m always looking to learn, improve, and push my skills further.</h2>
 
 ###
 

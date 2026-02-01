@@ -1,24 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hi, I'm <span style="color: #22F72E;">Mohammed Ageli</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
-  Driven by AI & Web Development | Computer Science Student 
-</h3>
-
-<h2><br>I’m a final-year Computer Science student passionate about AI, Data Analytics, and Software Engineering. I enjoy building smart, impactful projects that combine technology with real-world problem solving, and I’m always looking to learn, improve, and push my skills further.</h2>
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohammed-ageli-153346218/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 
 ###

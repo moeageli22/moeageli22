@@ -12,6 +12,7 @@
 <h2><br>I’m a final-year Computer Science student passionate about AI, Data Analytics, and Software Engineering. I enjoy building smart, impactful projects that combine technology with real-world problem solving, and I’m always looking to learn, improve, and push my skills further.</h2>
 
 
+
 ###
 
 <div align="left">

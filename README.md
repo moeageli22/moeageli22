@@ -4,7 +4,7 @@
   Hi, I'm Mohammed Ageli
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
   <img src="https://github.com/user-attachments/assets/dea8ebbe-4f2e-4c1c-a5a3-a6bef09bed40"
-       width="75" align="right"/>
+       width="270" align="right"/>
 </h1>
 
 

@@ -11,7 +11,7 @@
   Driven by AI & Web Development | Computer Science Student 
 </h3>
 
-<h2><br>I’m a final-year Computer Science student passionate about AI, Data Analytics, and Software Engineering. I enjoy building smart, impactful projects that combine technology with real-world problem solving, and I’m always looking to learn, improve, and push my skills further.</h2>
+<h2><br>I'm a Computer Science graduate currently pursuing an MSc in Artificial Intelligence for Science at King's College London. I'm passionate about AI, Machine Learning, Data Analytics, and Software Engineering. I enjoy developing innovative, real-world solutions through technology, continuously expanding my technical skills, and exploring the future of intelligent systems.</h2>
 
 
 ###
